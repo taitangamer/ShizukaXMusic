@@ -30,7 +30,7 @@ UPSTREAM_REPO = getenv(
     "https://github.com/taitangamer/ShizukaXMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/taitangamer/ShizukaXMusic/edit/main/config/config.py")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/taitangamer/ShizukaXMusic")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Dangerous_fighter_clan_1")
